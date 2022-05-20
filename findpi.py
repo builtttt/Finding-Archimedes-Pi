@@ -17,7 +17,7 @@ def findpi(n):
         e *= 2
         d = x*e
         
-    print (type(a),type(x),type(e),type(d))
-    return a,x,e,d
+    
+    return d
 
 print(findpi(500))
