@@ -1,5 +1,5 @@
 # Finding Archimedes Pi
-! [image](/image1.jpeg)
+![image](/image1.jpeg)
 
 ## How it works
 > Perimeter of a Polygon with e sides (when e -> ∞) = Cirumference of a Circle (2πr)
